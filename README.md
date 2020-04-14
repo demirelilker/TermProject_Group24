@@ -43,3 +43,10 @@ could be literally anything.
 ``Learn to use pre-trained models for feature extraction, which is the backbone of this project.`` \
 ``Starting to implement neural network structures for the training phase.`` 
 
+
+### Useful Links & Resources
+
+[Image Style Transfer Using Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
+
+[Neural Style Transfer | Tensorflow Tutorial](https://www.tensorflow.org/tutorials/generative/style_transfer)
+
